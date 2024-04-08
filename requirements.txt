@@ -14,7 +14,7 @@ aiohttp
 #---master---# 
 #Telethroid==0.0.10 
 PyLeaves==1.0.2 
-motor_asyncio==2.4.0  
+git+https://github.com/mongodb/motor.git  
   
  
 #---ytdl----# 
